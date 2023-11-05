@@ -1,4 +1,4 @@
-# gerador de numeros para mega sena com base em cauculo de 4 seçoes
+# gerador de numeros para mega sena com base em 4 seçoes
 Objetivo:
 O programa tem como objetivo gerar sequências de 6 números, onde cada número é escolhido aleatoriamente a partir de quatro seções diferentes (A, B, C e D). O programa evita repetições de números dentro de cada sequência.
 
